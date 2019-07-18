@@ -2,7 +2,6 @@
 Atividade Markdown
 
 ## **Bruno Manente**
-
 ![FOTO](https://media.licdn.com/dms/image/C5103AQFichGj3N6CaQ/profile-displayphoto-shrink_200_200/0?e=1568851200&v=beta&t=RltGH-L4SIj7_an0320VQ_-iRBAT1-Acurww7FZmxQA)
 
 

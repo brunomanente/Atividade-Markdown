@@ -32,8 +32,8 @@ Atividade Markdown
 6- *Configuração de Roteadores,. 
 
 
-> #studante de Programação de Jogos Digitais. Atualmente estudando as linguagens de programação C#, PHP E JavaScript.
-> ##Utilizando o bando de dados MySQL. Com conhecimento em ferramentas de edição gráfica.
+> studante de Programação de Jogos Digitais, Atualmente estudando as linguagens de programação C#, PHP E JavaScript.
+> Utilizando o bando de dados MySQL, Com conhecimento em ferramentas de edição gráfica.
 
 
 [LINK DO GIT](https://github.com/brunomanente)

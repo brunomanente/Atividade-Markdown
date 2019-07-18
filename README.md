@@ -36,13 +36,9 @@ Atividade Markdown
 [LINK DO GIT](https://github.com/brunomanente)
 
 
-```csharp
-// Hello1.cs
-public class Hello1
-{
-    public static void Main()
-    {
-        System.Console.WriteLine("Hello, World!");
-    }
-}
+```sql
+CREATE TABLE T1 (
+  c1 int PRIMARY KEY,
+  c2 varchar(50) SPARSE NULL
+);
 ```

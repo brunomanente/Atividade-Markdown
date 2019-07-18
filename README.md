@@ -14,26 +14,26 @@ Atividade Markdown
 # Faculdade de Americana
 
 
-1-Help-Desk,
+1- *Help-Desk,
 
 
-2-TOTVS,
+2- *TOTVS,
 
 
-3-Banco de Dados,
+3- *Banco de Dados,
 
 
-4-Active Directory,
+4- *Active Directory,
 
 
-5-Criação de Usuários,
+5- *Criação de Usuários,
 
 
-6-Configuração de Roteadores,. 
+6- *Configuração de Roteadores,. 
 
 
-> Estudante de Programação de Jogos Digitais. Atualmente estudando as linguagens de programação C#, PHP E JavaScript.
-> Utilizando o bando de dados MySQL. Com conhecimento em ferramentas de edição gráfica.
+> #studante de Programação de Jogos Digitais. Atualmente estudando as linguagens de programação C#, PHP E JavaScript.
+> ##Utilizando o bando de dados MySQL. Com conhecimento em ferramentas de edição gráfica.
 
 
 [LINK DO GIT](https://github.com/brunomanente)

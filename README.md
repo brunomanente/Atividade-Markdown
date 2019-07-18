@@ -37,8 +37,8 @@ Atividade Markdown
 
 
 ```sql
-CREATE TABLE T1 (
-  c1 int PRIMARY KEY,
-  c2 varchar(50) SPARSE NULL
+CREATE TABLE PESSOA (
+  ID int PRIMARY KEY,
+  NOPESSOA varchar2(25) IS NOT NULL
 );
 ```

@@ -14,22 +14,22 @@ Atividade Markdown
 # Faculdade de Americana
 
 
-1- *Help-Desk,
+1- * Help-Desk *,
 
 
-2- *TOTVS,
+2- * TOTVS *,
 
 
-3- *Banco de Dados,
+3- * Banco de Dados,
 
 
-4- *Active Directory,
+4- * Active Directory,
 
 
-5- *Criação de Usuários,
+5- * Criação de Usuários,
 
 
-6- *Configuração de Roteadores,. 
+6- * Configuração de Roteadores,. 
 
 
 > studante de Programação de Jogos Digitais, Atualmente estudando as linguagens de programação C#, PHP E JavaScript.

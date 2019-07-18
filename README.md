@@ -6,10 +6,8 @@ Atividade Markdown
 
 
 ## Assistente de TI na Unimed Santa Bárbara d'Oeste e Americana
-## Santa Bárbara D'Oeste, São Paulo, Brasil
 
 
-# Unimed Santa Bárbara d'Oeste e Americana 
 # Faculdade de Americana
 
 

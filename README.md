@@ -10,14 +10,8 @@ Atividade Markdown
 ## Santa Bárbara D'Oeste, São Paulo, Brasil
 
 
-Adicionar seção do perfil
- 
- 
-Mais…
-
-
-Unimed Santa Bárbara d'Oeste e Americana 
-Faculdade de Americana
+# Unimed Santa Bárbara d'Oeste e Americana 
+# Faculdade de Americana
 
 
 1-Help-Desk, 
@@ -27,8 +21,8 @@ Faculdade de Americana
 5-Criação de Usuários,
 6-Configuração de Roteadores,. 
 
->Estudante de Programação de Jogos Digitais. Atualmente estudando as linguagens de programação C#, PHP E JavaScript.
->Utilizando o bando de dados MySQL. Com conhecimento em ferramentas de edição gráfica.
-Portfólio.
+> Estudante de Programação de Jogos Digitais. Atualmente estudando as linguagens de programação C#, PHP E JavaScript.
+> Utilizando o bando de dados MySQL. Com conhecimento em ferramentas de edição gráfica.
+
 
 [LINK DO GIT](https://github.com/brunomanente)
